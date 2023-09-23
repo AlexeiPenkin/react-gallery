@@ -1,0 +1,168 @@
+{
+    "streets": 
+    [
+        {
+            "id": 1,
+            "title" : "British Street",
+            "image" : "https://s1.1zoom.me/b5245/952/England_Houses_Roads_Staithes_Street_525878_2560x1440.jpg"
+        },
+        {
+            "id": 2,
+            "title" : "Snow Street",
+            "image" : "https://live.staticflickr.com/65535/51731444960_0a84d9b9f3_4k.jpg"
+        },
+        {
+            "id": 3,
+            "title" : "Streets Of San Francisco",
+            "image" : "https://live.staticflickr.com/65535/51731159562_564cd1444d_b.jpg"
+        },
+        {
+            "id": 4,
+            "title" : "King Charles Street",
+            "image" : "https://live.staticflickr.com/65535/51727557614_ce472a7ee7_4k.jpg"
+        },
+        {
+            "id": 5,
+            "title" : "Italy Street",
+            "image" : "https://live.staticflickr.com/565/21838090453_dcec89d5ab_k.jpg"
+        },
+        {
+            "id": 6,
+            "title" : "Berlin Streets",
+            "image" : "https://live.staticflickr.com/1598/24229723693_54f19ca04c_h.jpg"
+        },
+        {
+            "id": 7,
+            "title" : "Autumn street",
+            "image" : "https://live.staticflickr.com/697/22363665531_d9da240e71_k.jpg"
+        },
+        {
+            "id": 8,
+            "title" : "Croatia Street",
+            "image" : "https://live.staticflickr.com/7680/16680886974_76b7cd77e5_k.jpg"
+        },
+        {
+            "id": 9,
+            "title" : "Italy Street",
+            "image" : "https://live.staticflickr.com/5596/14604225634_63edd2cc4d_k.jpg"
+        },
+        {
+            "id": 10,
+            "title" : "Verona Street",
+            "image" : "https://live.staticflickr.com/3913/15227741926_b929ffa6f7_k.jpg"
+        },
+        {
+            "id": 11,
+            "title" : "Small Town Street",
+            "image" : "https://live.staticflickr.com/7162/6687014147_948c3c6840_h.jpg"
+        },
+        {
+            "id": 12,
+            "title" : "Germany Street",
+            "image" : "https://live.staticflickr.com/3868/15293168261_5f7ce2c5eb_6k.jpg"
+        },
+        {
+            "id": 13,
+            "title" : "French Street",
+            "image" : "https://live.staticflickr.com/1561/25829276725_dddfb3288d_k.jpg"
+        },
+        {
+            "id": 14,
+            "title" : "China Streets",
+            "image" : "https://live.staticflickr.com/7375/13901947777_5927a3a1ca_k.jpg"
+        },
+        {
+            "id": 15,
+            "title" : "Night Street",
+            "image" : "https://catherineasquithgallery.com/uploads/posts/2023-02/1676646158_catherineasquithgallery-com-p-zelenii-fon-ulitsa-20.jpg"
+        },
+        {
+            "id": 16,
+            "title" : "NY Street",
+            "image" : "https://pazlyigra.ru/uploads/posts/2022-05/1639865689_1-macrodistrict-club-p-nochnie-ulitsi-nyu-yorka-ulitsi-goroda-1.jpg"
+        },
+        {
+            "id": 17,
+            "title" : "Amsterdam Street",
+            "image" : "https://www.bizlife.rs/wp-content/uploads/2020/02/amsterdam-2123275_1920-scaled.jpg"
+        },
+        {
+            "id": 18,
+            "title" : "Belgium Street",
+            "image" : "https://s1.1zoom.ru/b4042/308/Ghent_Belgium_Houses_Street_HDR_528546_2048x1152.jpg"
+        },
+        {
+            "id": 19,
+            "title" : "Germany Street",
+            "image" : "https://s1.1zoom.ru/b5050/477/Germany_Houses_Wimpfen_Street_Shrubs_518457_1920x1200.jpg"
+        },
+        {
+            "id": 20,
+            "title" : "Italy Street",
+            "image" : "https://s1.1zoom.me/big0/94/Italy_Houses_Monopoli_Puglia_Street_Night_HDR_526120_1280x854.jpg"
+        }
+    ],
+    "cats": 
+    [
+        {
+            "id": 1,
+            "title" : "Posing",
+            "image" : "https://live.staticflickr.com/65535/51923385188_538eea6cd7_k.jpg"
+        },
+        {
+            "id": 2,
+            "title" : "What's Going On",
+            "image" : "https://live.staticflickr.com/3150/3684057367_0aa9187360_k.jpg"
+        },
+        {
+            "id": 3,
+            "title" : "Posing",
+            "image" : "https://live.staticflickr.com/65535/52256264864_ec08463361_b.jpg"
+        },
+        {
+            "id": 4,
+            "title" : "Impression",
+            "image" : "https://live.staticflickr.com/65535/52241253781_e16df91ba4_k.jpg"
+        },
+        {
+            "id": 5,
+            "title" : "Little angles",
+            "image" : "https://live.staticflickr.com/65535/52196386669_95b3ac7edd_k.jpg"
+        },
+        {
+            "id": 6,
+            "title" : "Not too fussed",
+            "image" : "https://live.staticflickr.com/65535/52031152431_0a44bfb200_4k.jpg"
+        },
+        {
+            "id": 7,
+            "title" : "Hello",
+            "image" : "https://live.staticflickr.com/65535/52265677639_b7898d510c_c.jpg"
+        },
+        {
+            "id": 8,
+            "title" : "Perfect moment",
+            "image" : "https://live.staticflickr.com/65535/51377562487_d3c7d62c9c_k.jpg"
+        },
+        {
+            "id": 9,
+            "title" : "Kitten",
+            "image" : "https://live.staticflickr.com/8150/7668798224_a625160674_k.jpg"
+        },
+        {
+            "id": 10,
+            "title" : "Kittens",
+            "image" : "https://live.staticflickr.com/5018/5512899567_469f374ad5_k.jpg"
+        },
+        {
+            "id": 11,
+            "title" : "Kittens",
+            "image" : "https://live.staticflickr.com/5478/14330765981_4ee45288b1_5k.jpg"
+        },
+        {
+            "id": 12,
+            "title" : "Kitten",
+            "image" : "https://live.staticflickr.com/6037/6254709876_0257aff90e_k.jpg"
+        }
+    ]
+}

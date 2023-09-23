@@ -1,0 +1,22 @@
+body {
+  background-color: rgb(50, 50, 50);
+  margin: 0;
+  font-family: "Inter", sans-serif;
+  margin: 0 auto;
+}
+
+.app .app__title {
+  padding: 50px;
+}
+.app .app__title h1 {
+  width: 100%;
+  font-size: 58px;
+  font-weight: bold;
+  text-align: center;
+  color: #fff;
+  margin: 0 auto;
+}
+.app .app__title h1 span {
+  font-size: 40px;
+  font-weight: normal;
+}/*# sourceMappingURL=index.css.map */

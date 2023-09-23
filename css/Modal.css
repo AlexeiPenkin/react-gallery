@@ -1,0 +1,90 @@
+.overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  -webkit-backdrop-filter: blur(10px);
+          backdrop-filter: blur(10px);
+  z-index: 100;
+  transition: all 0.3s ease-in-out;
+}
+.overlay .modal {
+  top: 0;
+  left: 0;
+  width: 100%;
+  -webkit-backdrop-filter: blur(20px);
+          backdrop-filter: blur(20px);
+  transition: width 1s, height 350ms ease;
+}
+.overlay .modal .container {
+  width: 100vw;
+  height: 100vh;
+  padding-bottom: 50px;
+}
+.overlay .modal .container .closeModal {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 40px;
+  height: 40px;
+  font-size: 25px;
+  color: #fff;
+  padding-bottom: 3px;
+  cursor: pointer;
+  z-index: 10;
+  transition: transform 0.3s ease-in-out;
+}
+.overlay .modal .container .closeModal:hover {
+  transform: scale(1.1);
+}
+.overlay .modal .container .closeModal:active {
+  transform: scale(0.95);
+}
+.overlay .modal .container .modal-photo {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 50px;
+  border: none;
+  overflow: visible;
+}
+.overlay .modal .container .modal-photo:hover {
+  box-shadow: none;
+}
+.overlay .modal .container .modal-photo .modal-img {
+  width: auto;
+  height: auto;
+  max-height: 850px;
+  filter: none;
+  border: 1px solid #fff;
+  padding: 15px;
+  margin-bottom: -7%;
+}
+.overlay .modal .container .modal-photo .modal-img:hover {
+  transform: none;
+  filter: none;
+}
+.overlay .modal .container .modal-photo .hr-sloping-lines {
+  width: 30%;
+  padding: 0;
+  height: 0;
+  border: none;
+  border-width: 0 0 2px;
+  border-style: solid;
+  -o-border-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2 1" width="8" height="4"><circle fill="white" cx="1" cy="0.5" r="0.5"></circle></svg>') 0 0 100% repeat;
+     border-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2 1" width="8" height="4"><circle fill="white" cx="1" cy="0.5" r="0.5"></circle></svg>') 0 0 100% repeat;
+  background-position: 50%;
+}
+.overlay .modal .container .modal-photo p {
+  font-size: 2vw;
+  color: #fff;
+  padding: 5px;
+}/*# sourceMappingURL=Modal.css.map */

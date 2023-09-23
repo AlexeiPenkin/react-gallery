@@ -1,0 +1,16 @@
+.home {
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(50, 50, 50);
+  margin: 0 auto;
+}
+.home .container {
+  margin: 0 auto;
+}
+.home .container .photos {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 30px;
+}/*# sourceMappingURL=Home.css.map */

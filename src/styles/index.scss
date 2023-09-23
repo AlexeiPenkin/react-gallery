@@ -1,0 +1,28 @@
+body {
+    // max-width: 1920px;
+    background-color: rgb(50, 50, 50);
+    margin: 0;
+    font-family: 'Inter', sans-serif;
+    margin: 0 auto;
+}
+
+.app {
+
+    .app__title {
+        padding: 50px;
+
+        h1 {
+            width: 100%;
+            font-size: 58px;
+            font-weight: bold;
+            text-align: center;
+            color: #fff;
+            margin: 0 auto;
+
+            span {
+                font-size: 40px;
+                font-weight: normal;
+            }
+        }
+    }
+}
